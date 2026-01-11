@@ -1,2 +1,2 @@
 # Undergraduate-Project
-Repository for undergraduate projects.
+The .zip file contains the game.exe for the undergraduate project.
